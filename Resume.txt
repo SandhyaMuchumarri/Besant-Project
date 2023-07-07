@@ -3,5 +3,7 @@ Name:
 DOB:
 Age:
 Salary:
-Address
+Address:
+expected salary:
+CAB:
 
